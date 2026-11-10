@@ -1,4 +1,4 @@
-# Lire et collecter une page web — books.toscrape.com
+# Lire et collecter une page web : books.toscrape.com
 
 Projet réalisé dans le cadre du **Bootcamp Data Analyst** (Wild Code School × Simplon), semaine 9 : *Collecter la donnée*.
 
